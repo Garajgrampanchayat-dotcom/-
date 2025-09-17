@@ -1,4 +1,4 @@
-# -<!DOCTYPE html>
+# -<!ग्रामपंचायत गारज >
 <html lang="mr">
 <head>
   <meta charset="UTF-8">
@@ -10,6 +10,12 @@
     header h3 { margin:5px 0 0; font-weight: normal; }
     nav { background:#333; padding:10px; text-align:center; }
     nav a { color:white; margin:0 15px; text-decoration:none; font-weight:bold; }
+    <section id="gallery">
+  <h2>गॅलरी</h2>
+  <img src="assets/temple.jpg" alt="गावातील मंदिर" width="300">
+  <img src="assets/school.jpg" alt="गावातील शाळा" width="300">
+  <img src="assets/office.jpg" alt="ग्रामपंचायत कार्यालय" width="300">
+</section>
     nav a:hover { text-decoration: underline; }
     section { padding:30px; max-width:900px; margin:auto; }
     section h2 { color:#006400; border-bottom:2px solid #ddd; padding-bottom:5px; }
